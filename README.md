@@ -14,6 +14,7 @@ Instalar node: https://nodejs.org/en/
 
 Clonar el repositorio de GitHub: git clone https://github.com/ManuelGonzalez007/somosMasONG.git
 
+
 Instalar dependencias: *npm install*
 
 ## Levantar app
